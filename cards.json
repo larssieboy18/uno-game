@@ -1,10 +1,10 @@
 {
   "unoCards": [
     {
-      "WILDCARD_COLOUR": {
-        "value": "Colour Switcher",
-        "colour": "Wildcard",
-        "amount": 4
+      "WILDCARD_COLOUR": { // name of the card
+        "value": "Colour Switcher", // (numeric) value of the card
+        "colour": "Wildcard", // colour of the card
+        "amount": 4 // amount of cards in one complete UNO deck
       }
     },
     {
