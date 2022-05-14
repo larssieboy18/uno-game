@@ -1,0 +1,382 @@
+{
+  "unoCards": [
+    {
+      "WILDCARD_COLOUR": {
+        "value": "Colour Switcher",
+        "colour": "Wildcard",
+        "amount": 4
+      }
+    },
+    {
+      "WILDCARD_DRAW_FOUR": {
+        "value": "Draw Four",
+        "colour": "Wildcard",
+        "amount": 4
+      }
+    },
+    {
+      "BLUE_0": {
+        "value": 0,
+        "colour": "Blue",
+        "amount": 2
+      }
+    },
+    {
+      "BLUE_1": {
+        "value": 1,
+        "colour": "Blue",
+        "amount": 2
+      }
+    },
+    {
+      "BLUE_2": {
+        "value": 2,
+        "colour": "Blue",
+        "amount": 2
+      }
+    },
+    {
+      "BLUE_3": {
+        "value": 3,
+        "colour": "Blue",
+        "amount": 2
+      }
+    },
+    {
+      "BLUE_4": {
+        "value": 4,
+        "colour": "Blue",
+        "amount": 2
+      }
+    },
+    {
+      "BLUE_5": {
+        "value": 5,
+        "colour": "Blue",
+        "amount": 2
+      }
+    },
+    {
+      "BLUE_6": {
+        "value": 6,
+        "colour": "Blue",
+        "amount": 2
+      }
+    },
+    {
+      "BLUE_7": {
+        "value": 7,
+        "colour": "Blue",
+        "amount": 2
+      }
+    },
+    {
+      "BLUE_8": {
+        "value": 8,
+        "colour": "Blue",
+        "amount": 2
+      }
+    },
+    {
+      "BLUE_9": {
+        "value": 9,
+        "colour": "Blue",
+        "amount": 2
+      }
+    },
+    {
+      "BLUE_BLOCK": {
+        "value": "Block",
+        "colour": "Blue",
+        "amount": 2
+      }
+    },
+    {
+      "BLUE_SWITCH": {
+        "value": "Switch",
+        "colour": "Blue",
+        "amount": 2
+      }
+    },
+    {
+      "BLUE_DRAW_TWO": {
+        "value": "Draw Two",
+        "colour": "Blue",
+        "amount": 2
+      }
+    },
+    {
+      "RED_0": {
+        "value": 0,
+        "colour": "Red",
+        "amount": 2
+      }
+    },
+    {
+      "RED_1": {
+        "value": 1,
+        "colour": "Red",
+        "amount": 2
+      }
+    },
+    {
+      "RED_2": {
+        "value": 2,
+        "colour": "Red",
+        "amount": 2
+      }
+    },
+    {
+      "RED_3": {
+        "value": 3,
+        "colour": "Red",
+        "amount": 2
+      }
+    },
+    {
+      "RED_4": {
+        "value": 4,
+        "colour": "Red",
+        "amount": 2
+      }
+    },
+    {
+      "RED_5": {
+        "value": 5,
+        "colour": "Red",
+        "amount": 2
+      }
+    },
+    {
+      "RED_6": {
+        "value": 6,
+        "colour": "Red",
+        "amount": 2
+      }
+    },
+    {
+      "RED_7": {
+        "value": 7,
+        "colour": "Red",
+        "amount": 2
+      }
+    },
+    {
+      "RED_8": {
+        "value": 8,
+        "colour": "Red",
+        "amount": 2
+      }
+    },
+    {
+      "RED_9": {
+        "value": 9,
+        "colour": "Red",
+        "amount": 2
+      }
+    },
+    {
+      "RED_BLOCK": {
+        "value": "Block",
+        "colour": "Red",
+        "amount": 2
+      }
+    },
+    {
+      "RED_SWITCH": {
+        "value": "Switch",
+        "colour": "Red
+        "amount": 2
+      }
+    },
+    {
+      "RED_DRAW_TWO": {
+        "value": "Draw Two",
+        "colour": "Red",
+        "amount": 2
+      }
+    },
+    {
+      "YELLOW_0": {
+        "value": 0,
+        "colour": "Red",
+        "amount": 2
+      }
+    },
+    {
+      "YELLOW_1": {
+        "value": 1,
+        "colour": "Yellow",
+        "amount": 2
+      }
+    },
+    {
+      "YELLOW_2": {
+        "value": 2,
+        "colour": "Yellow",
+        "amount": 2
+      }
+    },
+    {
+      "YELLOW_3": {
+        "value": 3,
+        "colour": "Yellow",
+        "amount": 2
+      }
+    },
+    {
+      "YELLOW_4": {
+        "value": 4,
+        "colour": "Yellow",
+        "amount": 2
+      }
+    },
+    {
+      "YELLOW_5": {
+        "value": 5,
+        "colour": "Yellow",
+        "amount": 2
+      }
+    },
+    {
+      "YELLOW_6": {
+        "value": 6,
+        "colour": "Yellow",
+        "amount": 2
+      }
+    },
+    {
+      "YELLOW_7": {
+        "value": 7,
+        "colour": "Yellow",
+        "amount": 2
+      }
+    },
+    {
+      "YELLOW_8": {
+        "value": 8,
+        "colour": "Yellow",
+        "amount": 2
+      }
+    },
+    {
+      "YELLOW_9": {
+        "value": 9,
+        "colour": "Yellow",
+        "amount": 2
+      }
+    },
+    {
+      "YELLOW_BLOCK": {
+        "value": "Block",
+        "colour": "Yellow",
+        "amount": 2
+      }
+    },
+    {
+      "YELLOW_SWITCH": {
+        "value": "Switch",
+        "colour": "Yellow",
+        "amount": 2
+      }
+    },
+    {
+      "YELLOW_DRAW_TWO": {
+        "value": "Draw Two",
+        "colour": "Yellow",
+        "amount": 2
+      }
+    },
+    {
+      "GREEN_0": {
+        "value": 0,
+        "colour": "Green",
+        "amount": 2
+      }
+    },
+    {
+      "GREEN_1": {
+        "value": 1,
+        "colour": "Green",
+        "amount": 2
+      }
+    },
+    {
+      "GREEN_2": {
+        "value": 2,
+        "colour": "Green",
+        "amount": 2
+      }
+    },
+    {
+      "GREEN_3": {
+        "value": 3,
+        "colour": "Green",
+        "amount": 2
+      }
+    },
+    {
+      "GREEN_4": {
+        "value": 4,
+        "colour": "Green",
+        "amount": 2
+      }
+    },
+    {
+      "GREEN_5": {
+        "value": 5,
+        "colour": "Green",
+        "amount": 2
+      }
+    },
+    {
+      "GREEN_6": {
+        "value": 6,
+        "colour": "Green",
+        "amount": 2
+      }
+    },
+    {
+      "GREEN_7": {
+        "value": 7,
+        "colour": "Green",
+        "amount": 2
+      }
+    },
+    {
+      "GREEN_8": {
+        "value": 8,
+        "colour": "Green",
+        "amount": 2
+      }
+    },
+    {
+      "GREEN_9": {
+        "value": 9,
+        "colour": "Green",
+        "amount": 2
+      }
+    },
+    {
+      "GREEN_BLOCK": {
+        "value": "Block",
+        "colour": "Green",
+        "amount": 2
+      }
+    },
+    {
+      "GREEN_SWITCH": {
+        "value": "Switch",
+        "colour": "Green",
+        "amount": 2
+      }
+    },
+    {
+      "GREEN_DRAW_TWO": {
+        "value": "Draw Two",
+        "colour": "Green",
+        "amount": 2
+      }
+    }
+  ]
+}
