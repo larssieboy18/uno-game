@@ -185,7 +185,7 @@
     {
       "RED_SWITCH": {
         "value": "Switch",
-        "colour": "Red
+        "colour": "Red",
         "amount": 2
       }
     },
