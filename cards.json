@@ -18,14 +18,14 @@
       "BLUE_0": {
         "value": 0,
         "colour": "Blue",
-        "amount": 2
+        "amount": 1
       }
     },
     {
       "BLUE_1": {
         "value": 1,
         "colour": "Blue",
-        "amount": 1
+        "amount": 2
       }
     },
     {
