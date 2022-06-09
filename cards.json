@@ -25,7 +25,7 @@
       "BLUE_1": {
         "value": 1,
         "colour": "Blue",
-        "amount": 2
+        "amount": 1
       }
     },
     {
@@ -109,7 +109,7 @@
       "RED_0": {
         "value": 0,
         "colour": "Red",
-        "amount": 2
+        "amount": 1
       }
     },
     {
@@ -200,7 +200,7 @@
       "YELLOW_0": {
         "value": 0,
         "colour": "Red",
-        "amount": 2
+        "amount": 1
       }
     },
     {
@@ -291,7 +291,7 @@
       "GREEN_0": {
         "value": 0,
         "colour": "Green",
-        "amount": 2
+        "amount": 1
       }
     },
     {
